@@ -2,6 +2,8 @@
 Central repository for CEATTLE multispecies modeling efforts
 
 # Key Links
+- The 2023 Multispecies Stock Assessment for the Bering Sea, AK https://github.com/kholsman/2023_Multispp_assessment
+- The 2020 CEATTLE ACLIM2 simulations (Holsman et al. 2020) https://github.com/kholsman/ACLIM-CEATTLE
 
 # Input Resrouces
 - Diet data
@@ -19,3 +21,4 @@ Central repository for CEATTLE multispecies modeling efforts
 | Model    | Lead    | Base code|Details | Operational?| Citation|  
 
 # References
+
