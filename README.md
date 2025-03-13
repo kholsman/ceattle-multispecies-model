@@ -1,4 +1,4 @@
-# Multispecies Stock Assessment Modeling Resources
+# Multispecies Stock Assessment Modeling with CEATTLE
 Central repository for CEATTLE multispecies modeling efforts
 
 # Key Links
